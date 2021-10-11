@@ -4,7 +4,9 @@
 
 # Screenshot
 
-![example](./assets/gojoke-example.png)
+<div align=center>
+    <img src="./assets/gojoke-example.png" />
+</div>
 
 # Usage
 
