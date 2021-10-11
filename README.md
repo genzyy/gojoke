@@ -41,4 +41,4 @@
     $ set -gx PATH ~/.local/bin:$PATH
 ```
 
-- Then source the config file and run `gojoke'.
+- Then source the config file and run `gojoke`.
